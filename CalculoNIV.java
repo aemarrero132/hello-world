@@ -27,23 +27,6 @@ public class CalculoNIV {
 		letras.put('V', 5); letras.put('W', 6);
 		letras.put('X', 7); letras.put('Y', 8);
 		letras.put('Z', 9);
-		
-		/*anosprod = new Hashtable<String, Character>();
-		anosprod.put("2000", 'Y');	anosprod.put("2001", '1');
-		anosprod.put("2002", '2');	anosprod.put("2003", '3');
-		anosprod.put("2004", '4');	anosprod.put("2005", '5');
-		anosprod.put("2006", '6');	anosprod.put("2007", '7');
-		anosprod.put("2008", '8');	anosprod.put("2009", '9');
-		anosprod.put("2010", 'A');	anosprod.put("2011", 'B');
-		anosprod.put("2012", 'C');	anosprod.put("2013", 'D');
-		anosprod.put("2014", 'E');	anosprod.put("2015", 'F');
-		anosprod.put("2016", 'G');	anosprod.put("2017", 'H');
-		anosprod.put("2018", 'J');	anosprod.put("2019", 'K');
-		anosprod.put("2020", 'L');	anosprod.put("2021", 'M');
-		anosprod.put("2022", 'N');	anosprod.put("2023", 'P');
-		anosprod.put("2024", 'R');	anosprod.put("2025", 'S');
-		anosprod.put("2026", 'T');	anosprod.put("2027", 'V');
-		anosprod.put("2028", 'W');	anosprod.put("2029", 'X');*/
 	}
 	
 	//Retorna el digito 9 verificador de acuerdo a su parte decimal
